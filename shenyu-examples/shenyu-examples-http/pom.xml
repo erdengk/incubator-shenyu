@@ -62,6 +62,7 @@
             <scope>test</scope>
         </dependency>
 
+
         <!--shenyu consul register center -->
         <!--<dependency>
             <groupId>org.springframework.cloud</groupId>
